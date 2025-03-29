@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Daniel Faigenboim
+- Vivo en Ituzaingó
 
 
 ### Otra Información
